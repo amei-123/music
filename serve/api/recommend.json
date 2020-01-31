@@ -1,0 +1,964 @@
+{
+    "code": 0,
+    "ts": 1578032238825,
+    "MusicHallHomePage": {
+        "code": 0,
+        "data": {
+            "v_shelf": [
+                {
+                    "id": 101,
+                    "title_template": "官方歌单",
+                    "title_content": "",
+                    "style": 0,
+                    "more": {
+                        "jumptype": 3001,
+                        "id": "https://y.qq.com/m/client/categoryzone/detail.html?isParent=1\u0026_hidehd=1\u0026categoryId=3317\u0026targetCategoryId=3317",
+                        "tjreport": "1_60_0",
+                        "trace": "",
+                        "abt": "",
+                        "pingpong": ""
+                    },
+                    "feedback_opt": 0,
+                    "v_niche": [
+                        {
+                            "id": 203,
+                            "title_template": "",
+                            "title_content": "",
+                            "style": 11,
+                            "more": {
+                                "jumptype": 0,
+                                "id": "",
+                                "tjreport": "1_60_1",
+                                "trace": "",
+                                "abt": "",
+                                "pingpong": ""
+                            },
+                            "v_card": [
+                                {
+                                    "type": 500,
+                                    "subtype": 512,
+                                    "jumptype": 10014,
+                                    "id": "7256912512",
+                                    "subid": "",
+                                    "title": "欧美| 流行节奏控",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/xiabfMZAmQ0PYUzgCvOicArIoGLzqL3n6q3fDiawWkhTTVWgGNM52HBNA/300?n=1",
+                                    "cnt": 47915513,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "2783429033",
+                                            "encrypt_uin": "",
+                                            "nick": "QQ音乐官方歌单",
+                                            "avatar": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+                                            "icon": "",
+                                            "viptype": 1,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_0_10047_7256912512_199_0_0_1000_1047",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {},
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 512,
+                                    "jumptype": 10014,
+                                    "id": "7256920196",
+                                    "subid": "",
+                                    "title": "欧美| 流行轻有氧",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/xiabfMZAmQ0PYUzgCvOicArIoGLzqL3n6q4X4NiaWS01Fvtn063nqHY2Q/300?n=1",
+                                    "cnt": 27671600,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "2783429033",
+                                            "encrypt_uin": "",
+                                            "nick": "QQ音乐官方歌单",
+                                            "avatar": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+                                            "icon": "",
+                                            "viptype": 1,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_1_10047_7256920196_199_0_0_1000_1047",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {},
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 512,
+                                    "jumptype": 10014,
+                                    "id": "7269422312",
+                                    "subid": "",
+                                    "title": "中文说唱制躁",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/xiabfMZAmQ0PYUzgCvOicArLY9qDDWrxUEgqD527pesXcCjicufbkNKEw/300?n=1",
+                                    "cnt": 5366686,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "2783429033",
+                                            "encrypt_uin": "",
+                                            "nick": "QQ音乐官方歌单",
+                                            "avatar": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+                                            "icon": "",
+                                            "viptype": 1,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_2_10047_7269422312_0_0_0_1000_1047",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {},
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 512,
+                                    "jumptype": 10014,
+                                    "id": "7256928516",
+                                    "subid": "",
+                                    "title": "最·陈奕迅",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/MKjEtF7diatibd6B0iaeF5KguYHTWhScOADLtR9xjUjEEz5uYMCCKOA9w/300?n=1",
+                                    "cnt": 45429704,
+                                    "time": 1572941160,
+                                    "v_user": [
+                                        {
+                                            "uin": "2783429033",
+                                            "encrypt_uin": "",
+                                            "nick": "QQ音乐官方歌单",
+                                            "avatar": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+                                            "icon": "",
+                                            "viptype": 1,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_6_10047_7256928516_199_0_0_1000_1047",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {},
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 512,
+                                    "jumptype": 10014,
+                                    "id": "7258069591",
+                                    "subid": "",
+                                    "title": "最·SUPER JUNIOR",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/4pmnRu5sL5QbtO8OS8NKJfZrk8BAWrrpjoXd2UIvyBMlQpiaQpf8MaQ/300?n=1",
+                                    "cnt": 2616387,
+                                    "time": 1574239200,
+                                    "v_user": [
+                                        {
+                                            "uin": "2783429033",
+                                            "encrypt_uin": "",
+                                            "nick": "QQ音乐官方歌单",
+                                            "avatar": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+                                            "icon": "",
+                                            "viptype": 1,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_7_10047_7258069591_199_0_0_1000_1047",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {},
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 512,
+                                    "jumptype": 10014,
+                                    "id": "7258073352",
+                                    "subid": "",
+                                    "title": "古典| 美妙心情",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/7vlTTvwBiaibKJpyXffTHicMpDXK5xPJiaPoPSy3PBexF9zRK9veKIXuxw/300?n=1",
+                                    "cnt": 1819452,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "2783429033",
+                                            "encrypt_uin": "",
+                                            "nick": "QQ音乐官方歌单",
+                                            "avatar": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/1579030.png",
+                                            "icon": "",
+                                            "viptype": 1,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_8_10047_7258073352_199_0_0_1000_1047",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {},
+                                    "pingpong": ""
+                                }
+                            ],
+                            "bgpic": "",
+                            "tjreport": "1_60_1",
+                            "trace": "",
+                            "abt": "",
+                            "miscellany": {},
+                            "pingpong": ""
+                        }
+                    ],
+                    "expire": 1800,
+                    "tjreport": "1_60_0",
+                    "trace": "",
+                    "abt": "",
+                    "miscellany": {},
+                    "pingpong": ""
+                },
+                {
+                    "id": 102,
+                    "title_template": "达人歌单",
+                    "title_content": "",
+                    "style": 0,
+                    "more": {
+                        "jumptype": 2018,
+                        "id": "",
+                        "tjreport": "1_59_0",
+                        "trace": "",
+                        "abt": "",
+                        "pingpong": ""
+                    },
+                    "feedback_opt": 0,
+                    "v_niche": [
+                        {
+                            "id": 203,
+                            "title_template": "",
+                            "title_content": "",
+                            "style": 1,
+                            "more": {
+                                "jumptype": 0,
+                                "id": "",
+                                "tjreport": "1_59_1",
+                                "trace": "",
+                                "abt": "",
+                                "pingpong": ""
+                            },
+                            "v_card": [
+                                {
+                                    "type": 500,
+                                    "subtype": 0,
+                                    "jumptype": 10014,
+                                    "id": "7365352274",
+                                    "subid": "",
+                                    "title": "民谣男声：唱给你心中的那个女孩",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/Y9V3tAZvgQMVNK2WeMZic7gWUlIibVdgS2mPibtXAj4z1LXAGTzZa6aOw/300?n=1",
+                                    "cnt": 74169,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "2303204713",
+                                            "encrypt_uin": "",
+                                            "nick": "虽小众",
+                                            "avatar": "http://thirdqq.qlogo.cn/g?b=sdk\u0026k=iahrQWZ3S5ekCEajZa71Crw\u0026s=140\u0026t=1573109498",
+                                            "icon": "",
+                                            "viptype": 0,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_3_10014_7365352274_0_0_0_1000_1014",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "rcmdtemplate": "编辑推荐"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 0,
+                                    "jumptype": 10014,
+                                    "id": "7362718916",
+                                    "subid": "",
+                                    "title": "2020跨年晚会丨四大卫视听到底！",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/JBDCVgqXWXaYUvcsElqcicYqGc7XCmufc8W0QfKOrH1xf7ibnUM7qybQ/300?n=1",
+                                    "cnt": 646615,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "3414308253",
+                                            "encrypt_uin": "",
+                                            "nick": "鹅猴综艺狸",
+                                            "avatar": "http://y.gtimg.cn/music/common/upload/t_celebrity_certification/215814.jpg",
+                                            "icon": "",
+                                            "viptype": 2,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_4_10014_7362718916_0_0_0_1000_1014",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "rcmdtemplate": "编辑推荐"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 0,
+                                    "jumptype": 10014,
+                                    "id": "7356353977",
+                                    "subid": "",
+                                    "title": "小众向 · 与美好事物不期而遇",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/jCPNL5FMs23Uk4XAo5aTmWwFSW2PZr6j94icrlic0IiczlBJP23Gq9zyA/300?n=1",
+                                    "cnt": 60498,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "2717056190",
+                                            "encrypt_uin": "",
+                                            "nick": "热云赫赫拉",
+                                            "avatar": "http://thirdqq.qlogo.cn/g?b=sdk\u0026k=KLGsNMAd5STbibUIo65txvA\u0026s=140\u0026t=1556954351",
+                                            "icon": "",
+                                            "viptype": 2,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_5_10014_7356353977_0_0_0_1000_1014",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "rcmdtemplate": "编辑推荐"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 0,
+                                    "jumptype": 10014,
+                                    "id": "7184005623",
+                                    "subid": "",
+                                    "title": "搞笑流行曲，生活调味剂",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/K6CEv0Hv9DcRopdMZUDepgu9uW0YUIk39NrkSJ1VAictiafgRw69MJJw/300?n=1",
+                                    "cnt": 57983,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "88480387",
+                                            "encrypt_uin": "",
+                                            "nick": "Talent-炎",
+                                            "avatar": "http://thirdqq.qlogo.cn/g?b=sdk\u0026k=LsLfEgLswhZHI2ibd9RNSJw\u0026s=140\u0026t=1571408185",
+                                            "icon": "",
+                                            "viptype": 2,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_9_10014_7184005623_0_0_0_1000_1014",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "rcmdtemplate": "编辑推荐"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 0,
+                                    "jumptype": 10014,
+                                    "id": "4130694362",
+                                    "subid": "",
+                                    "title": "另类意境 • 释放纷乱思绪",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/llTQ9l2AeicK2OLIORnsUdmzyjC4k3UWhbOicIUu3COWzjpnb4BJXiahg/300?n=1",
+                                    "cnt": 52693,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "348361207",
+                                            "encrypt_uin": "",
+                                            "nick": "风少",
+                                            "avatar": "http://thirdqq.qlogo.cn/g?b=sdk\u0026k=OXyNTSJibg2nd09Z9Dy1J9A\u0026s=140\u0026t=1556410847",
+                                            "icon": "",
+                                            "viptype": 2,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_10_10014_4130694362_0_0_0_1000_1014",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "rcmdtemplate": "编辑推荐"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": 500,
+                                    "subtype": 0,
+                                    "jumptype": 10014,
+                                    "id": "7095303445",
+                                    "subid": "",
+                                    "title": "缓解焦躁 • 韩系舒心小调",
+                                    "subtitle": "",
+                                    "cover": "http://qpic.y.qq.com/music_cover/Hepa6V8aXWj4x9UyxSztnRoB2nKmjg4c2cpSLTI9hHUHAdibC33Z6iag/300?n=1",
+                                    "cnt": 303319,
+                                    "time": 0,
+                                    "v_user": [
+                                        {
+                                            "uin": "1950666740",
+                                            "encrypt_uin": "",
+                                            "nick": "★、╰︶",
+                                            "avatar": "http://thirdqq.qlogo.cn/g?b=sdk\u0026k=cet0hDAkmlCBC3bwticqiaPg\u0026s=140\u0026t=1577351327",
+                                            "icon": "",
+                                            "viptype": 2,
+                                            "follow": 0
+                                        }
+                                    ],
+                                    "tjreport": "1_8_666666_11_10014_7095303445_0_0_0_1000_1014",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "rcmdtemplate": "编辑推荐"
+                                    },
+                                    "pingpong": ""
+                                }
+                            ],
+                            "bgpic": "",
+                            "tjreport": "1_59_1",
+                            "trace": "",
+                            "abt": "",
+                            "miscellany": {},
+                            "pingpong": ""
+                        }
+                    ],
+                    "expire": 1800,
+                    "tjreport": "1_59_0",
+                    "trace": "",
+                    "abt": "",
+                    "miscellany": {},
+                    "pingpong": ""
+                },
+                {
+                    "id": 161,
+                    "title_template": "分类专区",
+                    "title_content": "",
+                    "style": 0,
+                    "more": {
+                        "jumptype": 2018,
+                        "id": "",
+                        "tjreport": "1_58_0",
+                        "trace": "",
+                        "abt": "",
+                        "pingpong": ""
+                    },
+                    "feedback_opt": 0,
+                    "v_niche": [
+                        {
+                            "id": 203,
+                            "title_template": "",
+                            "title_content": "",
+                            "style": 10,
+                            "more": {
+                                "jumptype": 0,
+                                "id": "",
+                                "tjreport": "1_58_1",
+                                "trace": "",
+                                "abt": "",
+                                "pingpong": ""
+                            },
+                            "v_card": [
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=000RwLAK2fB7f9\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "综艺专区",
+                                    "subtitle": "我们的歌：舞台上的007！",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1940708.jpg",
+                                    "cnt": 0,
+                                    "time": 1578018193,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_1_10060_5",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/t_cm3_photo_publish/1263901.png"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=0043QNxP3vJUeg\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "亲子专区",
+                                    "subtitle": "更快乐更专业的亲子陪伴",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1356283.png",
+                                    "cnt": 0,
+                                    "time": 1578016007,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_2_10060_6",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1356151.png"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=003BBN4e3YzEFZ\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "见面吧电台专区",
+                                    "subtitle": "李予溪现场演唱《傻的可以》温柔诉说另一种爱情的模样",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1941783.jpg",
+                                    "cnt": 0,
+                                    "time": 1577966364,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_3_10060_34",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1580168.jpg"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=001hfFAo4MwZW4\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "影视专区",
+                                    "subtitle": "温暖跨年2020，给你满分宠爱",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1939219.jpg",
+                                    "cnt": 0,
+                                    "time": 1576582987,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_4_10060_35",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1778410.png"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=004JiRMJ44sPeD\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "ACG专区",
+                                    "subtitle": "ACG专区 | 动漫游戏音乐随心听",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1451073.jpg",
+                                    "cnt": 0,
+                                    "time": 1576553177,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_5_10060_2",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1348191.jpg"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=003emYNw2Ysii4\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "古典专区",
+                                    "subtitle": "贝多芬2020到来！",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1907440.jpg",
+                                    "cnt": 0,
+                                    "time": 1574993633,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_6_10060_3",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1674710.jpg"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=000WXh6n3IeecW\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "Urban专区",
+                                    "subtitle": "用节奏定义城市",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1641395.gif",
+                                    "cnt": 0,
+                                    "time": 1573626597,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_7_10060_7",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1843912.png"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=000cpfLE0Z7o16\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "中文说唱专区",
+                                    "subtitle": "耳朵在这里充电",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1792326.jpg",
+                                    "cnt": 0,
+                                    "time": 1571218571,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_8_10060_72",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1788420.jpg"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://y.qq.com/m/client/area/index.html?encArea=003mzwJN2HlVtu\u0026_video=true\u0026ADTAG=yinyueguan",
+                                    "subid": "",
+                                    "title": "国风专区",
+                                    "subtitle": "赏一曲悠悠古韵",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1909028.jpg",
+                                    "cnt": 0,
+                                    "time": 1570762418,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_9_10060_4",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1253602.png"
+                                    },
+                                    "pingpong": ""
+                                },
+                                {
+                                    "type": -1,
+                                    "subtype": 0,
+                                    "jumptype": 3001,
+                                    "id": "https://i.y.qq.com/n2/m/ringzone/index.html?_video=true\u0026_scrollhide=1\u0026_hidehd=1",
+                                    "subid": "",
+                                    "title": "铃声专区",
+                                    "subtitle": "百变铃声随心换",
+                                    "cover": "https://y.gtimg.cn/music/common/upload/category_area/1579265.png",
+                                    "cnt": 0,
+                                    "time": 1562314969,
+                                    "v_user": [],
+                                    "tjreport": "1_58_1_10_10060_28",
+                                    "trace": "",
+                                    "abt": "",
+                                    "miscellany": {
+                                        "icon": "https://y.gtimg.cn/music/common/upload/category_area/1579261.jpg"
+                                    },
+                                    "pingpong": ""
+                                }
+                            ],
+                            "bgpic": "",
+                            "tjreport": "1_58_1",
+                            "trace": "",
+                            "abt": "",
+                            "miscellany": {},
+                            "pingpong": ""
+                        }
+                    ],
+                    "expire": 1800,
+                    "tjreport": "1_58_0",
+                    "trace": "",
+                    "abt": "",
+                    "miscellany": {},
+                    "pingpong": ""
+                }
+            ]
+        }
+    },
+    "hotkey": {
+        "code": 0,
+        "data": {
+            "expid": "1",
+            "ret_code": 0,
+            "vec_hotkey": [
+                {
+                    "description": "我左手一式太极拳，右手一剑刺身前",
+                    "hotkey_id": "3.2:下山",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 1,
+                    "pic_url": "",
+                    "query": "下山",
+                    "score": "3021106",
+                    "source": 2,
+                    "title": "下山",
+                    "type": 3
+                },
+                {
+                    "description": "全新专辑《摩天动物园》震撼上线",
+                    "hotkey_id": "3.2:邓紫棋",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 1,
+                    "pic_url": "",
+                    "query": "邓紫棋",
+                    "score": "2296084",
+                    "source": 2,
+                    "title": "邓紫棋",
+                    "type": 3
+                },
+                {
+                    "description": "用一首歌形容过去的一年，你肯定没法避开它",
+                    "hotkey_id": "3.2:野狼disco",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 1,
+                    "pic_url": "",
+                    "query": "野狼disco",
+                    "score": "2087215",
+                    "source": 2,
+                    "title": "野狼disco",
+                    "type": 3
+                },
+                {
+                    "description": "来了！你的个人年度听歌报告",
+                    "hotkey_id": "3.2:年度总结",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "年度总结",
+                    "score": "1726586",
+                    "source": 2,
+                    "title": "2019年度歌单",
+                    "type": 3
+                },
+                {
+                    "description": "祝在新的一年你能找到自己的答案",
+                    "hotkey_id": "3.2:你的答案",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "你的答案",
+                    "score": "1650450",
+                    "source": 2,
+                    "title": "你的答案",
+                    "type": 3
+                },
+                {
+                    "description": "意犹未尽2019，放眼展望2020",
+                    "hotkey_id": "3.2:跨年演唱会",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "跨年演唱会",
+                    "score": "886625",
+                    "source": 2,
+                    "title": "2020跨年演唱会",
+                    "type": 3
+                },
+                {
+                    "description": "带你浮游于记忆星河，被流光萤火温暖笼罩",
+                    "hotkey_id": "3.1:星空下的我",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "星空下的我",
+                    "score": "854782",
+                    "source": 1,
+                    "title": "S制造 戴羽彤 星空下的我",
+                    "type": 3
+                },
+                {
+                    "description": "像春天的花儿一样",
+                    "hotkey_id": "3.2:你笑起来真好看",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "你笑起来真好看",
+                    "score": "812327",
+                    "source": 2,
+                    "title": "你笑起来真好看",
+                    "type": 3
+                },
+                {
+                    "description": "我的心脏为你跳动为你狂",
+                    "hotkey_id": "3.2:嚣张",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "嚣张",
+                    "score": "746363",
+                    "source": 2,
+                    "title": "嚣张",
+                    "type": 3
+                },
+                {
+                    "description": "听完林俊杰容祖儿合唱的我不禁发问",
+                    "hotkey_id": "3.2:这就是爱吗",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "这就是爱吗",
+                    "score": "648675",
+                    "source": 2,
+                    "title": "这就是爱吗",
+                    "type": 3
+                },
+                {
+                    "description": "这首歌真的炸到耳朵，太洗脑了",
+                    "hotkey_id": "3.2:炸山姑娘",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "炸山姑娘",
+                    "score": "544487",
+                    "source": 2,
+                    "title": "炸山姑娘",
+                    "type": 3
+                },
+                {
+                    "description": "想要痛痛快快的摆脱失眠",
+                    "hotkey_id": "3.2:大眠",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "大眠",
+                    "score": "536461",
+                    "source": 2,
+                    "title": "大眠",
+                    "type": 3
+                },
+                {
+                    "description": "草原上除了奶香，还有火红的萨日朗",
+                    "hotkey_id": "3.2:火红的萨日朗",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "火红的萨日朗",
+                    "score": "510731",
+                    "source": 2,
+                    "title": "火红的萨日朗",
+                    "type": 3
+                },
+                {
+                    "description": "不喜欢这首歌，别说你是我知己！",
+                    "hotkey_id": "3.2:别知己",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "别知己",
+                    "score": "420900",
+                    "source": 2,
+                    "title": "别知己",
+                    "type": 3
+                },
+                {
+                    "description": "“我希望枯木逢春 我逢你”",
+                    "hotkey_id": "3.2:这一生关于你的风景",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "这一生关于你的风景",
+                    "score": "398815",
+                    "source": 2,
+                    "title": "这一生关于你的风景",
+                    "type": 3
+                },
+                {
+                    "description": "心目中最甜的民谣二人组",
+                    "hotkey_id": "3.2:房东的猫",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "房东的猫",
+                    "score": "271587",
+                    "source": 2,
+                    "title": "房东的猫",
+                    "type": 3
+                },
+                {
+                    "description": "Alan Walker教主最负盛名的作品之一",
+                    "hotkey_id": "3.2:faded",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "faded",
+                    "score": "264226",
+                    "source": 2,
+                    "title": "Faded",
+                    "type": 3
+                },
+                {
+                    "description": "每当觉得冷都要听的，暖洋洋的声音",
+                    "hotkey_id": "3.2:汪苏泷",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "汪苏泷",
+                    "score": "248691",
+                    "source": 2,
+                    "title": "汪苏泷",
+                    "type": 3
+                },
+                {
+                    "description": "都在新的一年实现吧！",
+                    "hotkey_id": "3.2:那些你很冒险的梦",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "",
+                    "query": "那些你很冒险的梦",
+                    "score": "242172",
+                    "source": 2,
+                    "title": "那些你很冒险的梦",
+                    "type": 3
+                },
+                {
+                    "description": "跟我一起跳起孤独的探戈",
+                    "hotkey_id": "3.2:我不是在笑",
+                    "jump_tab": "-1",
+                    "jump_url": "",
+                    "need_top": 0,
+                    "pic_url": "https:\/\/y.gtimg.cn\/music\/common\/upload\/t_cm3_photo_publish\/1547351.png",
+                    "query": "我不是在笑",
+                    "score": "226832",
+                    "source": 2,
+                    "title": "我不是在笑",
+                    "type": 3
+                }
+            ],
+            "vec_reckey": []
+        }
+    }
+}
